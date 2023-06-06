@@ -27,7 +27,7 @@
     "deepmerge": "^4.2.2",
     "express": "^4.17.1",
     "fast-glob": "^3.2.5",
-    "fast-xml-parser": "^3.20.3",
+    "fast-xml-parser": "^4.2.4",
     "filesize": "^6.1.0",
     "flatbush": "^3.3.0",
     "follow-redirects": "^1.13.3",
